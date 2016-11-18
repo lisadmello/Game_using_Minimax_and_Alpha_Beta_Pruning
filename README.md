@@ -1,6 +1,5 @@
 # Game_using_Minimax_and_Alpha_Beta_Pruning
-The game is a silmulation of ground warfare
-The	game	is	a	simulation	of	ground	warfare	and	has	the	following	rules:	
+The game is a silmulation of ground warfare and	has	the	following	rules:	
 	
 1. The	game	board	is	an	NxN	grid	representing	the	territory	your	forces	will	trample	(N=5	in	the	figures	below).	Columns	are	named	A,	B,	C,	…	starting	from	the	left,	and	rows	are	named	1,	2,	3,	…	from	top.
 2. Each	player	takes	turns	as	in	chess	or	tic-tac-toe.	That	is,	player	X	takes	a	move,	then	player	O,	then	back	to	player	X,	and	so	forth.	
